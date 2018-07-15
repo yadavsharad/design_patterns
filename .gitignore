@@ -5,3 +5,5 @@
 /.vs/DesignPatterns/v15
 /Decorator/bin/Debug/netcoreapp2.0
 /Decorator/obj
+/.vs/DesignPatterns/DesignTimeBuild
+/Decorator/bin/Debug
